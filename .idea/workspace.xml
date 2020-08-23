@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18dbdb1d-e45d-490c-a438-3451b9f37675" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1gVfUzXKA4JbboVrF6r23OzbSDp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Go Build.run cardsGame main">
+    <configuration name="cardsGame" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="goLangLearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <sudo value="true" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cardsGame/main.go" />
+      <package value="goLangLearn" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goLangLearn" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
+      <module name="goLangLearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <sudo value="true" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/helloworld.go" />
+      <package value="goLangLearn" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
+      <module name="goLangLearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/helloworld.go" />
+      <package value="goLangLearn" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run cardsGame main" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goLangLearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cardsGame/main.go" />
+      <package value="goLangLearn" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run helloworld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="goLangLearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/helloworld.go" />
+      <package value="goLangLearn" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.run cardsGame main" />
+      <item itemvalue="Go Build.run helloworld.go" />
+      <item itemvalue="Go Build.cardsGame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.run helloworld.go" />
+        <item itemvalue="Go Build.cardsGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18dbdb1d-e45d-490c-a438-3451b9f37675" name="Default Changelist" comment="" />
+      <created>1598204699975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598204699975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" width="1071" height="852" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598205870995">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="852" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598205870995" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1598205833558">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833558" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1598205833557">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833557" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1598205833556">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833556" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1598205833557">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833557" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1598205604853">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598205604853" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1598205604852">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598205604852" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1598205604852">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598205604852" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1598205604853">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598205604853" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1598205296407">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1598205296407" />
+  </component>
+</project>
