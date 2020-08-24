@@ -26,9 +26,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Go Build.run cardsGame main">
+  <component name="RunManager" selected="Go Build.run practicePrograms">
     <configuration name="cardsGame" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="goLangLearn" />
       <working_directory value="$PROJECT_DIR$" />
@@ -79,8 +85,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="run practicePrograms" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goLangLearn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/practicePrograms/joiningStrings.go" />
+      <package value="goLangLearn" />
+      <directory value="$PROJECT_DIR$/cardsGame" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.run cardsGame main" />
+      <item itemvalue="Go Build.run practicePrograms" />
       <item itemvalue="Go Build.run helloworld.go" />
       <item itemvalue="Go Build.cardsGame" />
     </list>
@@ -106,26 +123,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="187" width="1071" height="852" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598205870995">
+    <state x="304" y="30" width="1071" height="1020" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598273847712">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="304" y="187" width="1071" height="852" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598205870995" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1598205833558">
+    <state x="304" y="30" width="1071" height="1020" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598273847712" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1598274496450">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833558" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1598205833557">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598274496450" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1598274496449">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833557" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1598205833556">
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598274496449" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1598274496449">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833556" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1598205833557">
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598274496449" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1598274496450">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598205833557" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598274496450" />
     <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1598205604853">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
