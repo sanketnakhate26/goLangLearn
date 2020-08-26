@@ -11,12 +11,12 @@ type students []string
 func main(){
 	stu := initStudents()
 	fmt.Println("File contents before save : ")
-	fmt.Println(stu)
+	stu.print()
 	fmt.Println("Saving file.....")
 	stu.saveToFile("new.txt")
 	fmt.Println("Reading contents from the saved file :")
-	fmt.Println(newDeckFromFile("new.txt"))
-
+	newStudents :=newStudentsFromFile("new.txt")
+	newStudents.print()
 
 }
 func initStudents() students{
@@ -31,7 +31,7 @@ func (s students) toJoinString() string{
 	return strings.Join([]string(s),",")
 }
 
-func newDeckFromFile(filename string) students {
+func newStudentsFromFile(filename string) students {
 	bs, err := ioutil.ReadFile("new.txt")
 	if err != nil{
 		fmt.Println(err)
@@ -39,4 +39,8 @@ func newDeckFromFile(filename string) students {
 		}
 	s := strings.Split(string(bs),",")
 	return students(s)
+}
+
+func (s students) print() {
+	fmt.Println(s)
 }
