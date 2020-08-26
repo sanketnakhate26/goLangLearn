@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math/rand"
+	"time"
 )
 
 type numbers []string
@@ -24,8 +25,11 @@ func initNumbers() numbers{
 }
 
 func (n numbers) shuffle() {
+	source := rand.NewSource(time.Now().UnixNano())
+	r := rand.New(source)
+
 	for i,_ := range n{
-		newposition := rand.Intn(len(n)-1)
+		newposition := r.Intn(len(n)-1)
 		n[i], n[newposition] = n[newposition] , n[i]
 	}
 }
