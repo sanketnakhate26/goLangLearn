@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18dbdb1d-e45d-490c-a438-3451b9f37675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practicePrograms/saveToFile.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,12 +122,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Go Build.cardsGame" />
       <item itemvalue="Go Build.go build goLangLearn" />
       <item itemvalue="Go Build.go build helloworld.go" />
       <item itemvalue="Go Build.run cardsGame main" />
-      <item itemvalue="Go Build.run practicePrograms" />
       <item itemvalue="Go Build.run helloworld.go" />
-      <item itemvalue="Go Build.cardsGame" />
+      <item itemvalue="Go Build.run practicePrograms" />
     </list>
     <recent_temporary>
       <list>
