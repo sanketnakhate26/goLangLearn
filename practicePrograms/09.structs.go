@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+g
 type student struct {
 	firstName string
 	lastName string
@@ -10,7 +10,12 @@ type student struct {
 func main(){
 	rohit := student{"Rohit" , "Sharma"}
 	var unknown student
-	fmt.Print(rohit)
-	fmt.Println(unknown)
+	rohit.print()
+	unknown.print()
 
 }
+
+func (s student) print() {
+	fmt.Printf("%+v",s)
+}
+
